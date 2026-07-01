@@ -1,0 +1,38 @@
+2026-07-01 18:55:47,143 WARNING werkzeug  * Debugger is active!
+2026-07-01 18:55:47,147 INFO werkzeug  * Debugger PIN: 110-261-333
+2026-07-01 18:55:56,205 INFO werkzeug  * Detected change in 'C:\\Users\\shubham.nagare\\Downloads\\todo_app\\todo_app\\database\\db.py', reloading
+2026-07-01 18:55:56,948 WARNING werkzeug  * Debugger is active!
+2026-07-01 18:55:56,951 INFO werkzeug  * Debugger PIN: 110-261-333
+2026-07-01 18:56:07,009 INFO werkzeug  * Detected change in 'C:\\Users\\shubham.nagare\\Downloads\\todo_app\\todo_app\\app.py', reloading
+2026-07-01 18:56:07,698 INFO __main__ Starting To-Do app
+2026-07-01 18:56:07,700 INFO database.db Database initialized successfully at C:\Users\shubham.nagare\Downloads\todo_app\todo_app\database\todo.db
+2026-07-01 18:56:07,726 WARNING werkzeug  * Debugger is active!
+2026-07-01 18:56:07,731 INFO werkzeug  * Debugger PIN: 110-261-333
+2026-07-01 18:56:55,967 INFO werkzeug  * Detected change in 'C:\\Users\\shubham.nagare\\Downloads\\todo_app\\todo_app\\database\\db.py', reloading
+2026-07-01 18:56:56,511 INFO __main__ Starting To-Do app
+2026-07-01 18:56:56,512 INFO database.db Database initialized successfully at C:\Users\shubham.nagare\Downloads\todo_app\todo_app\database\todo.db
+2026-07-01 18:56:56,530 WARNING werkzeug  * Debugger is active!
+2026-07-01 18:56:56,533 INFO werkzeug  * Debugger PIN: 110-261-333
+2026-07-01 18:56:58,558 INFO werkzeug  * Detected change in 'C:\\Users\\shubham.nagare\\Downloads\\todo_app\\todo_app\\app.py', reloading
+2026-07-01 18:56:59,035 INFO __main__ Starting To-Do app
+2026-07-01 18:56:59,037 INFO database.db Database initialized successfully at C:\Users\shubham.nagare\Downloads\todo_app\todo_app\database\todo.db
+2026-07-01 18:56:59,049 WARNING werkzeug  * Debugger is active!
+2026-07-01 18:56:59,052 INFO werkzeug  * Debugger PIN: 110-261-333
+2026-07-01 18:58:49,459 INFO __main__ Added task: fg
+2026-07-01 18:58:49,463 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 18:58:49] "[32mPOST /add HTTP/1.1[0m" 302 -
+2026-07-01 18:58:49,475 INFO __main__ Loaded 1 tasks
+2026-07-01 18:58:49,508 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 18:58:49] "GET / HTTP/1.1" 200 -
+2026-07-01 18:58:49,699 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 18:58:49] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-01 18:58:49,701 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 18:58:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-01 18:59:45,307 INFO __main__ Deleted task id=3
+2026-07-01 18:59:45,309 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 18:59:45] "[32mPOST /delete/3 HTTP/1.1[0m" 302 -
+2026-07-01 18:59:45,320 INFO __main__ Loaded 0 tasks
+2026-07-01 18:59:45,322 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 18:59:45] "GET / HTTP/1.1" 200 -
+2026-07-01 18:59:45,357 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 18:59:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-01 18:59:45,359 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 18:59:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2026-07-01 19:03:36,022 INFO __main__ Added task: hbgcfdzxdgfchbnkhuhgl-098765432wsdxcvbn m
+2026-07-01 19:03:36,025 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 19:03:36] "[32mPOST /add HTTP/1.1[0m" 302 -
+2026-07-01 19:03:36,037 INFO __main__ Loaded 1 tasks
+2026-07-01 19:03:36,039 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 19:03:36] "GET / HTTP/1.1" 200 -
+2026-07-01 19:03:36,068 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 19:03:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-01 19:03:36,070 INFO werkzeug 127.0.0.1 - - [01/Jul/2026 19:03:36] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -

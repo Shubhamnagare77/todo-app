@@ -1,0 +1,44 @@
+/* static/css/style.css
+   Custom styles layered on top of Bootstrap for a cleaner, friendlier look. */
+
+body {
+    background-color: #f5f7fa;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.list-group-item {
+    padding: 0.9rem 1.25rem;
+    transition: background-color 0.2s ease;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+}
+
+.task-title {
+    word-break: break-word;
+}
+
+.task-completed {
+    background-color: #f0fdf4;
+}
+
+h1 {
+    font-weight: 700;
+    color: #2d3436;
+}
+
+.btn-outline-success,
+.btn-outline-danger {
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
