@@ -91,3 +91,5 @@ todo_app/
 - **Database:** SQLite (via Python's built-in `sqlite3` module)
 - **Frontend:** HTML, CSS, Bootstrap 5
 - **Templating:** Jinja2 (bundled with Flask)
+
+Training: Added by shubham on feature branch.
